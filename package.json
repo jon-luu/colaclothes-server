@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jon-luu/colaclothes-server/issues"
   },
-  "homepage": "https://github.com/jon-luu/colaclothes-server#readme"
+  "homepage": "https://github.com/jon-luu/colaclothes-server#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
